@@ -10,3 +10,5 @@ responses
 future
 six
 huepy
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
